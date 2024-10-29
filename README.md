@@ -1,5 +1,5 @@
 # MAcPNN
-This repository contains the code used for the experimentation shown in the paper.
+This repository contains the code used for the experimentation shown in the paper that will be presented at IEEE Internation Conference on Big Data 2024 .
 
 ## 1) Installation
 execute:
@@ -13,6 +13,8 @@ execute:
 ## 2) Project structure
 The project is composed of the following directories.
 #### datasets
+Download `datasets.zip` [here](https://polimi365-my.sharepoint.com/:f:/g/personal/10780444_polimi_it/EvTEYrtfJ7ZAiMjb7NYUXJUB4J2sogaM9KkQK1iZAMQdiw?e=mZonOb)
+Extract it in the main folder of the project.
 It contains the generated data streams.
 Each file's name has the following structure: **\<generator\>\_federated\_\<id_configuration\>conf\_node\<id_device\>\_\<id_concept\>task_\<start\>.csv**.
 
