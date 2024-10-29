@@ -58,6 +58,9 @@ Run it with the command `python -m evaluation.build_perf_plot`.
 After making the files with `build_perf_plot.py`, it makes the plots in Fig. 7 and saves it in the `performance/macpnn` folder.\
 Run it with the command `python -m evaluation.plot`.
 
+## Credits
+https://github.com/AndreaCossu/ContinualLearning-SequentialProcessing
 
+https://github.com/alvarolemos/pyism
 
 
