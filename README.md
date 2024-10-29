@@ -31,7 +31,7 @@ In case of devices 1 and 2, the first concept's data stream (task0) is split in 
 
 #### models
 It contains the python modules implementing cPNN, cLSTM and MAcPNN.
-### evaluation
+#### evaluation
 It contains the python modules to implement the prequential evaluation used for the experiments.
 #### data_gen
 It contains the python modules implementing the data stream generator.
