@@ -1,5 +1,5 @@
 # MAcPNN
-This repository contains the code used for the experimentation shown in the paper that will be presented at IEEE Internation Conference on Big Data 2024 .
+This repository contains the code used for the experimentation shown in the paper that will be presented at IEEE International Conference on Big Data 2024.
 
 ## 1) Installation
 execute:
